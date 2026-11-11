@@ -42,7 +42,7 @@ dev = [
     "pytest-asyncio",
     "pip-licenses",
     "mkdocstrings-parser@git+https://github.com/Nixtla/mkdocstrings-parser.git",
-    "types-requests>=2.32.4.20260107",
+    "types-requests>=2.33.0.20261030",
 ]
 
 [project.urls]
