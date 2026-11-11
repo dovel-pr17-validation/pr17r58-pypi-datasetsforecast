@@ -1,0 +1,17 @@
+name: datasetsforecast
+channels:
+  - conda-forge
+dependencies:
+  - aiohttp
+  - jupyterlab
+  - numba
+  - numpy
+  - scikit-learn  
+  - pandas>=2.2.2,<4
+  - pip
+  - requests
+  - tqdm
+  - xlrd>=1.0.0
+  - pip:
+    - nbdev
+    - utilsforecast>=0.0.8

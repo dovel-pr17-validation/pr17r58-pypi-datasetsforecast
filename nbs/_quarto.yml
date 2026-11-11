@@ -1,0 +1,18 @@
+format:
+  mintlify-md:
+    code-fold: true
+metadata-files:
+- nbdev.yml
+- sidebar.yml
+project:
+  type: mintlify
+website:
+  navbar:
+    background: primary
+    search: true
+  open-graph: true
+  repo-actions:
+  - issue
+  sidebar:
+    style: floating
+  twitter-card: true
