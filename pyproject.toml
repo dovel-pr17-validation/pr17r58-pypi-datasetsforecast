@@ -27,7 +27,7 @@ dependencies = [
     "numpy",
     "scikit-learn",
     "pandas[plot]>=2.2.2,<4.0.0",
-    "pyarrow>=15.0.0",
+    "pyarrow>=26.0.1",
     "requests",
     "tqdm",
     "utilsforecast>=0.0.8",
